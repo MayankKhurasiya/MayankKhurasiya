@@ -4,6 +4,7 @@
   
   - [Active Directory Home Lab](https://github.com/MayankKhurasiya/ActiveDirectoryLab/tree/main)
   - [Snort IDS/IPS Implementation on Ubuntu](https://github.com/MayankKhurasiya/snort-ids-ips-ubuntu/tree/main)
+  - [Cybersecurity Vulnerability Management using OpenVAS](https://github.com/MayankKhurasiya/Cybersecurity-Vulnerability-Management-OpenVAS)
 
 <h2>🔐 Certifications:</h2>
 
