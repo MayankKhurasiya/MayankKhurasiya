@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
   
   - [Active Directory Home Lab](https://github.com/MayankKhurasiya/ActiveDirectoryLab/tree/main)
+  - [Snort IDS/IPS Implementation on Ubuntu](https://github.com/MayankKhurasiya/snort-ids-ips-ubuntu/tree/main)
 
 <h2>🔐 Certifications:</h2>
 
