@@ -9,9 +9,9 @@
 
 <h2>🔐 Certifications:</h2>
 
-- [🛡️ CompTIA Security+ ](https://www.credly.com/earner/earned/badge/8c936429-965a-43d6-827a-4453d9aa528d)
-- [🔗 CompTIA Network+ ](https://www.credly.com/earner/earned/badge/59c25f14-ce20-4a12-ae9d-ec274f4d907a)
-- [🌐 CompTIA A+ ](https://www.credly.com/earner/earned/badge/c98bfd00-a2b6-4a19-ba24-663619ded0cc)
+- [🛡️ CompTIA Security+ ](https://www.credly.com/badges/8c936429-965a-43d6-827a-4453d9aa528d/public_url)
+- [🔗 CompTIA Network+ ](https://www.credly.com/badges/59c25f14-ce20-4a12-ae9d-ec274f4d907a/public_url)
+- [🌐 CompTIA A+ ](https://www.credly.com/badges/c98bfd00-a2b6-4a19-ba24-663619ded0cc/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
