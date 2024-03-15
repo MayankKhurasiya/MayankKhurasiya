@@ -5,6 +5,7 @@
   - [Active Directory Home Lab](https://github.com/MayankKhurasiya/ActiveDirectoryLab)
   - [Snort IDS/IPS Implementation on Ubuntu](https://github.com/MayankKhurasiya/snort-ids-ips-ubuntu)
   - [Cybersecurity Vulnerability Management using OpenVAS](https://github.com/MayankKhurasiya/Cybersecurity-Vulnerability-Management-OpenVAS)
+  - [Azure Sentinel Customization](https://github.com/MayankKhurasiya/Azure-Sentinel-Customization)
 
 <h2>🔐 Certifications:</h2>
 
@@ -19,7 +20,7 @@
 [linkedin]: https://www.linkedin.com/in/mayank-khurasiya/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
